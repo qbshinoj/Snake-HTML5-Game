@@ -1,0 +1,18 @@
+.main-container{
+    position: relative;
+    margin: 0 auto;
+    width:200px;
+    height:200px;
+    top:0px;
+}
+
+#snake-game{
+    position: absolute;
+    top: 104px;
+}
+
+#start{
+    position: absolute;
+    left: 58px;
+    top: 151px;
+}
